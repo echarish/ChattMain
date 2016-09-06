@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/harishkumar/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/harishkumar/AndroidStudioProjects/ChattDemo Main/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0_368e9769b770aee3df405dc85d3a029bfcb89338.jar" />
+    </item>
+    <item
+        jar="/Users/harishkumar/AndroidStudioProjects/ChattDemo Main/app/libs/Parse-1.4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1724acfaa5ad53f76aad702318391fed16cd98ca">
+        <dex dex="/Users/harishkumar/AndroidStudioProjects/ChattDemo Main/app/build/intermediates/pre-dexed/debug/Parse-1.4.0_39ee77068a9c2c27d021d2c5b57b8bc86f5d7db4.jar" />
+    </item>
+
+</items>
